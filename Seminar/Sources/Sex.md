@@ -3,7 +3,6 @@ Treatment effect on recidivism for juveniles who have sexually offended: A multi
 ### Key Findings Relevant to Your Research:
 
 1. **Dynamic vs. Static Risk Factors**:
-    
     - Dynamic risk factors (e.g., antisocial beliefs, impulsivity) are more changeable and relevant for recidivism reduction through treatment. Static factors (e.g., history of prior offenses) are unchangeable but might influence treatment strategies indirectly (e.g., trauma-focused approaches).
 2. **Effectiveness of Treatments**:
     

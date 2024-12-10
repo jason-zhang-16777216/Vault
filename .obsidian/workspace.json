@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminar/Sources/Intervention.md",
+                "file": "Seminar/Sources/Sex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intervention"
+              "title": "Sex"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminar/Sources/Intervention.md",
+                "file": "Seminar/Sources/Sex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intervention"
+              "title": "Backlinks for Sex"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminar/Sources/Intervention.md",
+                "file": "Seminar/Sources/Sex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intervention"
+              "title": "Outgoing links from Sex"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminar/Sources/Intervention.md"
+                "file": "Seminar/Sources/Sex.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Intervention"
+              "title": "Outline of Sex"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "a0c189283cd3f709",
   "lastOpenFiles": [
-    "Seminar/Sources/Sex.md",
+    "Seminar/Sources/Intervention.md",
     "Outline.md",
+    "Seminar/Sources/Sex.md",
     "Seminar/Sources/Experience.md"
   ]
 }
