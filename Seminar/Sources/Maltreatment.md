@@ -1,3 +1,4 @@
+Maltreatment, child welfare, and recidivism in a sample of deep-end crossover youth
 # Summary
 - Analyzes the effect of the "timing of child welfare invovlement" on recidivism of instituionalized juvenile offenders
 - Sample of 12 955 youths in juvenile justice
@@ -12,7 +13,7 @@
   - ACEs have a significant effect on child welfare placement
   - Child welfare placement in turn has a significant effect on recidivism
     - This effect is only present in white and hispanic youths, not black
-  - Only Hispanic females and White males with both child welfare and juvenile justice cases were more likely to recidivate than delinquent-only counterpart
+  - Only Hispanic females and White males zwith both child welfare and juvenile justice cases were more likely to recidivate than delinquent-only counterpart
   - [[Crossover]] status was essentially irrelevant for black youths
   - Exposure to ACEs, child welfare, and juvenile justice's effect on recidivism is non-uniform
   - When it does matter, earlier child welfare involvement is more detrimental than current

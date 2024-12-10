@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "569b8d620bc676c9",
+    "id": "02228cc49cb72a77",
     "type": "split",
     "children": [
       {
-        "id": "c1b094921f60d29d",
+        "id": "dfa32f75e63eec8c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5f8c7fb7a0c246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "4389ddb09c29513d",
+            "id": "a0c189283cd3f709",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,37 +20,22 @@
               "icon": "lucide-file",
               "title": "Intervention"
             }
-          },
-          {
-            "id": "01a53acf4e15a7a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seminar/Sources/Experience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Experience"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d4689df20271072d",
+    "id": "e3991f5e4e38fa60",
     "type": "split",
     "children": [
       {
-        "id": "e706c9ac875986dc",
+        "id": "b76492a8bcd969c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8d97bdbf3d19636b",
+            "id": "b5ef5f5a489e47b7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +47,7 @@
             }
           },
           {
-            "id": "e2944e3eb0ab2ec4",
+            "id": "a44d3fb353b5ade4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +64,7 @@
             }
           },
           {
-            "id": "7df7b8ecd15a0e40",
+            "id": "ebc4a4339db82161",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "242b5921109c0d46",
+    "id": "7bfa24cec27aa984",
     "type": "split",
     "children": [
       {
-        "id": "33c19bcb04898587",
+        "id": "f0c3c74696d25ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "3e41deafe77090c4",
+            "id": "e7800c5f3b051d95",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminar/Sources/Experience.md",
+                "file": "Seminar/Sources/Intervention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Experience"
+              "title": "Backlinks for Intervention"
             }
           },
           {
-            "id": "0ccf5148658f14d2",
+            "id": "783eaf77e9d16605",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminar/Sources/Experience.md",
+                "file": "Seminar/Sources/Intervention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Experience"
+              "title": "Outgoing links from Intervention"
             }
           },
           {
-            "id": "289babb57341ede8",
+            "id": "aaa8203d19cf69d5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,15 +134,15 @@
             }
           },
           {
-            "id": "c519573180c431d0",
+            "id": "117a0ac948f672a4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminar/Sources/Experience.md"
+                "file": "Seminar/Sources/Intervention.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Experience"
+              "title": "Outline of Intervention"
             }
           }
         ]
@@ -191,26 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01a53acf4e15a7a6",
+  "active": "a0c189283cd3f709",
   "lastOpenFiles": [
-    "Seminar/Sources/Experience.md",
-    "Seminar/Sources/Welfare.md",
-    "Seminar/Sources/Intervention.md",
-    "Seminar/Sources/Psychopathy.md",
-    "Seminar/Sources/Treatment.md",
-    "Seminar/Sources/Maltreatment.md",
-    "Seminar/TMP.md",
-    "markdown-cheat-sheet.md",
-    "Glossary/Crossover youth.md",
-    "Glossary.md",
-    "Glossary/paucity.md",
-    "Glossary/Untitled.md",
-    "Adolescent Recidivism.md",
-    "Glossary",
-    "Seminar/Sources/Maltreatment.md~",
-    "Seminar/Sources/Maltreatment-Child-Welfare",
-    "Seminar/Sources",
-    "Seminar/TMP-notes.md",
-    "Seminar"
+    "Seminar/Sources/Sex.md",
+    "Outline.md",
+    "Seminar/Sources/Experience.md"
   ]
 }
